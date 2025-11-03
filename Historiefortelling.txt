@@ -12,3 +12,4 @@ you can rotate cow in you head for free
 =======
 det er bedre (for de som har lyst til å bricke pcen)
 >>>>>>> 2e6b9bada0e5f4c2451c1b0995c80c6a76cf5dde
+jeg tenker det er bedre om vi commiter flere ganger for no reason
