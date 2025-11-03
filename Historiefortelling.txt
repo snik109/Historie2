@@ -6,5 +6,9 @@ vent hva?????
 haha16.py og haha17.py var jo store fiender de var eksperter på ulike områder av ødeleggelse
 det er ekstremt usannsynlig at de skulle hjelpe hverandre.
 … e-er det bedre eller verre siden vi har begge???
+<<<<<<< HEAD
 
 you can rotate cow in you head for free
+=======
+det er bedre (for de som har lyst til å bricke pcen)
+>>>>>>> 2e6b9bada0e5f4c2451c1b0995c80c6a76cf5dde
